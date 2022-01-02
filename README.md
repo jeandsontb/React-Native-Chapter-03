@@ -28,3 +28,5 @@ Com o template já clonado e as dependências instaladas, você deve completar o
 Abaixo você vai ter o guia de como seguir para que o projeto passe nos testes
 
 [Guia por funcionalidade](https://www.notion.so/Guia-por-funcionalidade-8f162be6c6094c36951d357e959d333a)
+
+Desafio resolvido por [Jeandson](https://github.com/jeandsontb)
